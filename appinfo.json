@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "remco@zuijlen.eu",
+    "longName": "De Jeugd Van Tegenwoordig",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/djvt.png",
+                "name": "DVTJ",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "DJVT",
+    "uuid": "3756b96f-817c-4173-b451-13b43b8ce63e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
